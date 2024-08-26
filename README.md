@@ -6,3 +6,7 @@ Bienvenidos al repositorio de la cursada 2024. Acá vas a encontrar trabajos pr�
 
 - [Ir a los prácticos](/practicos)
 - [Ir a la plataforma moodle](https://moodle.exa.unicen.edu.ar/course/view.php?id=1143&section=2#tabs-tree-start)
+
+## Trabajo Práctico Especial
+A definir
+
