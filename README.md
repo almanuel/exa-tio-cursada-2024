@@ -9,4 +9,4 @@ Bienvenidos al repositorio de la cursada 2024. Acá vas a encontrar trabajos pr�
 
 ## Trabajo Práctico Especial
 A definir
-El TPE se publicará en github
+Pronto la consigna del TPE se publicará en github
