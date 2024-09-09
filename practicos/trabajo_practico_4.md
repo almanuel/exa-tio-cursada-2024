@@ -38,4 +38,3 @@
 - Deshacer el último commit y los cambios anteriores del directorio de trabajo volviendo a la versión anterior del repositorio.
 - Comprobar de nuevo el historial y el estado del repositorio.
 
-Esto no lo quiero commitear
